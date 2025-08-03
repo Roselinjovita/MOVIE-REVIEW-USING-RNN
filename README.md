@@ -33,6 +33,16 @@ This project uses a Recurrent Neural Network (RNN) to predict the sentiment (pos
 
 ---
 
+## 📦Requirements
+
+**Streamlit**
+
+**tensorflow**
+
+**nltk**
+
+---
+
 ## 📊 Results
 
 * ✅ Model learns sequential patterns effectively
